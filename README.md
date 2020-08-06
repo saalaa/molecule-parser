@@ -13,6 +13,10 @@ For example:
 
     $ pip install molecule-parser
 
+Note: the package has not been actually released to a public Python Package
+Index so the above command will not work. Follow development instructions to
+test the project.
+
 ## Development
 
 Make sure you have a valid virtual environment:
