@@ -1,0 +1,3 @@
+--ignore-directory=env
+--ignore-directory=build
+--ignore-directory=dist
